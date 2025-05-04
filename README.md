@@ -1,10 +1,10 @@
-![](https://capsule-render.vercel.app/api?type=cylinder&height=150&color=timeGradient&text=Github%20101&reversal=false&desc=The%20Github%20Guide%20for%20Beginners&textBg=false&fontAlignY=47&descAlignY=73)
+![](https://capsule-render.vercel.app/api?type=cylinder&height=150&color=timeGradient&text=Github%20101&reversal=false&desc=The%20Github%20Guide%20by%20PiyerX&textBg=false&fontAlignY=47&descAlignY=73)
 
 # The Github Guide for Beginners
 Welcome to the Github Guide for Beginners! 
 A curated collection of guides and resources designed to help developers and GitHub users navigate and improve their workflow. Whether you're new to Git, GitHub, or looking to improve your development setup, this guide has something for you.
 
-Created by [Piyush](https://github.com/piyerx)
+Do [STAR ⭐](https://github.com/piyerx) this repository if you find it useful.
 
 ## Table of Contents
 * [1. Git Cheat Sheet](GUIDEs/01-git-cheat-sheet.md)
