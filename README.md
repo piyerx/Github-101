@@ -8,13 +8,21 @@ Do [STAR ⭐](https://github.com/piyerx) this repository if you find it useful.
 
 ## Table of Contents
 * [1. Git Cheat Sheet](GUIDEs/01-git-cheat-sheet.md)
+> Essential Git commands for daily use and troubleshooting.
 * [2. Github Tips](GUIDEs/02-github-tips.md)
+> Handy tips for managing your GitHub repositories more efficiently.
 * [3. Pull Requests Guide](GUIDEs/03-pull-requests-guide.md)
+> A guide to creating, reviewing, and managing pull requests on GitHub.
 * [4. Gitignore Guide](GUIDEs/04-gitignore-guide.md)
+> Learn how to use .gitignore files to manage which files are tracked in your repository.
 * [5. Markdown Cheatsheet](GUIDEs/05-markdown-cheatsheet.md)
+> The basics of Markdown syntax, useful for GitHub README files and documentation.
 * [6. VS Code Extensions](GUIDEs/06-vs-code-extensions.md)
+> Recommended extensions for an optimized development environment.
 * [7. Github Pages Guide](GUIDEs/07-github-pages-guide.md)
+> Step-by-step instructions on hosting your personal website using GitHub Pages.
 * [8. Bash zsh Aliases](GUIDEs/08-bash-zsh-aliases.md)
+> Boost your command-line productivity with essential Bash and Zsh aliases.
 
 ## Why Did I Create This Repo?
 The goal of this repository is to create a one-stop guide for developers to enhance their Git and GitHub experience. 
