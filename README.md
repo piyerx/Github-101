@@ -7,14 +7,14 @@ A curated collection of guides and resources designed to help developers and Git
 Created by [Piyush](https://github.com/piyerx)
 
 ## Table of Contents
-* [1. Git Cheat Sheet](guide/01-git-cheat-sheet.md)
-* [2. Github Tips](guide/02-github-tips.md)
-* [3. Pull Requests Guide](guide/03-pull-requests-guide.md)
-* [4. Gitignore Guide](guide/04-gitignore-guide.md)
-* [5. Markdown Cheatsheet](guide/05-markdown-cheatsheet.md)
-* [6. VS Code Extensions](guide/06-vs-code-extensions.md)
-* [7. Github Pages Guide](guide/07-github-pages-guide.md)
-* [8. Bash zsh Aliases](guide/08-bash-zsh-aliases.md)
+* [1. Git Cheat Sheet](GUIDEs/01-git-cheat-sheet.md)
+* [2. Github Tips](GUIDEs/02-github-tips.md)
+* [3. Pull Requests Guide](GUIDEs/03-pull-requests-guide.md)
+* [4. Gitignore Guide](GUIDEs/04-gitignore-guide.md)
+* [5. Markdown Cheatsheet](GUIDEs/05-markdown-cheatsheet.md)
+* [6. VS Code Extensions](GUIDEs/06-vs-code-extensions.md)
+* [7. Github Pages Guide](GUIDEs/07-github-pages-guide.md)
+* [8. Bash zsh Aliases](GUIDEs/08-bash-zsh-aliases.md)
 
 ## Why Did I Create This Repo?
 The goal of this repository is to create a one-stop guide for developers to enhance their Git and GitHub experience. 
