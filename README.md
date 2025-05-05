@@ -17,7 +17,7 @@ Do [STAR ⭐](https://github.com/piyerx) this repository if you find it useful.
 > Learn how to use .gitignore files to manage which files are tracked in your repository.
 * [5. Markdown Cheatsheet](GUIDEs/05-markdown-cheatsheet.md)
 > The basics of Markdown syntax, useful for GitHub README files and documentation.
-* [6. VS Code Extensions](GUIDEs/06-vs-code-extensions.md)
+* [6. VS Code Extensions](GUIDEs/06-vscode-extensions.md)
 > Recommended extensions for an optimized development environment.
 * [7. Github Pages Guide](GUIDEs/07-github-pages-guide.md)
 > Step-by-step instructions on hosting your personal website using GitHub Pages.
