@@ -23,6 +23,9 @@ Do [STAR ⭐](https://github.com/piyerx) this repository if you find it useful.
 > Step-by-step instructions on hosting your personal website using GitHub Pages.
 * [8. Bash zsh Aliases](GUIDEs/08-bash-zsh-aliases.md)
 > Boost your command-line productivity with essential Bash and Zsh aliases.
+* [9. Github Advanced Topics](GUIDEs/09-advanced-git-topics.md)
+> Advanced topics for those who want to know more a specific tool/method .
+
 
 ## Why Did I Create This Repo?
 The goal of this repository is to create a one-stop guide for developers to enhance their Git and GitHub experience. 
