@@ -122,6 +122,8 @@ git bisect reset
 
 ---
 
-## ✅ Final Notes
+## Final Notes
 
 These topics are powerful tools in a developer’s Git arsenal. Practice them in a safe environment (like a test repo) to build confidence before using them in production.
+
+*~Created by [Piyush](https://github.com/piyerx)*
