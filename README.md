@@ -11,7 +11,7 @@ Do [STAR ⭐](https://github.com/piyerx) this repository if you find it useful.
 > Essential Git commands for daily use and troubleshooting.
 * [2. Github Tips](GUIDEs/02-github-tips.md)
 > Handy tips for managing your GitHub repositories more efficiently.
-* [3. Pull Requests Guide](GUIDEs/03-pull-requests-guide.md)
+* [3. Pull Requests Guide](GUIDEs/03-pull-request-guide.md)
 > A guide to creating, reviewing, and managing pull requests on GitHub.
 * [4. Gitignore Guide](GUIDEs/04-gitignore-guide.md)
 > Learn how to use .gitignore files to manage which files are tracked in your repository.
