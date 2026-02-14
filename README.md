@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=cylinder&height=150&color=timeGradient&text=Github%20101&reversal=false&desc=The%20Github%20Guide%20by%20PiyerX&textBg=false&fontAlignY=47&descAlignY=73)
 
-# The Github Guide for Beginners
+# ■ The Github Guide for Beginners
 Welcome to the Github Guide for Beginners! 
 A curated collection of guides and resources designed to help developers and GitHub users navigate and improve their workflow. Whether you're new to Git, GitHub, or looking to improve your development setup, this guide has something for you.
 
@@ -19,7 +19,7 @@ Do [STAR ⭐](https://github.com/piyerx) this repository if you find it useful.
 > The basics of Markdown syntax, useful for GitHub README files and documentation.
 * [6. VS Code Extensions](GUIDEs/06-vscode-extensions.md)
 > Recommended extensions for an optimized development environment.
-* [7. Github Pages Guide](GUIDEs/07-github-pages-guide.md)
+* [7. Github Pages Guide](GUIDEs/07-github-pages.md)
 > Step-by-step instructions on hosting your personal website using GitHub Pages.
 * [8. Bash zsh Aliases](GUIDEs/08-bash-zsh-aliases.md)
 > Boost your command-line productivity with essential Bash and Zsh aliases.
